@@ -1,14 +1,26 @@
-layout_spectrum: 0.6421946
-typography_spectrum: 0.5947303
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.5049002
-  lightness: 0.09939695
   brandStrength: 0.7995132
-  rhythmicContrast: 0.9643877
+  lightness: 0.09939695
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#C8F3FF'
+    - '#23282C'
+    - '#675446'
+    - '#B88A7A'
+    - '#E6B89E'
+  rhythmicContrast: 0.9643877
+typography_spectrum: 0.5947303
+layout_spectrum: 0.4856631
 name: Improv Camp
