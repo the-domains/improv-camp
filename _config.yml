@@ -1,0 +1,14 @@
+layout_spectrum: 0.6421946
+typography_spectrum: 0.5947303
+color:
+  saturation: 0.5049002
+  lightness: 0.09939695
+  brandStrength: 0.7995132
+  rhythmicContrast: 0.9643877
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: Improv Camp
