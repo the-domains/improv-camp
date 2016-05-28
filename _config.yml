@@ -10,17 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.5947303
+typography_spectrum: 0.26799566484987736
 color:
-  saturation: 0.5049002
-  brandStrength: 0.7995132
-  lightness: 0.09939695
+  saturation: 0.06914935633540154
+  brandStrength: 0.08561918931081891
+  lightness: 0.74943459010683
   brandColors:
-    - '#C8F3FF'
-    - '#23282C'
-    - '#675446'
-    - '#B88A7A'
-    - '#E6B89E'
-  rhythmicContrast: 0.9643877
-layout_spectrum: 0.7401434
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  rhythmicContrast: 0.7566317138262093
+layout_spectrum: 0.8138239027466625
 name: Improv Camp
