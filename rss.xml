@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Improv Camp]]></title>
         <description><![CDATA[Improv Camp]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/improv-camp/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 May 2016 00:13:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 28 May 2016 00:16:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/improv-camp/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Chilling in the mean streets of Cambria #ciuwest #california #vacation #allieverwanted #havetogetaway #selfie]]></title>
+            <description><![CDATA[<article><h1>Chilling in the mean streets of Cambria #ciuwest #california #vacation #allieverwanted #havetogetaway #selfie</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ea1dd9648fb404bf8eba2398ba47b6233459dcb4.jpg"></article>]]></description>
+            <link>https://www.instagram.com/p/BF7UJdQuUxU/</link>
+            <guid isPermaLink="false">7c606c66-22d1-46c5-9c8b-c44c6e964353</guid>
+            <pubDate>Sat, 28 May 2016 00:16:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[We also found goats on the way to camp. #ciuwest #improv #camp #improvcamp]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fscontent.cdninstagram.com%2Ft50.2886-16%2F13306888_768245129979127_1072497949_n.mp4&src_secure=1&url=https%3A%2F%2Fwww.instagram.com%2Fp%2FBF7G8L7s3JU%2F&image=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fe15%2F13320239_1682800041982596_397191387_n.jpg%3Fig_cache_key%3DMTI1OTYzMTA0NTA0MDYzMjQwNA%253D%253D.2&key=b7d04c9b404c499eba89ee7072e1c4f7&type=video%2Fmp4&schema=instagram" width="658" height="640" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <description><![CDATA[<article><h1>We also found goats on the way to camp. #ciuwest #improv #camp #improvcamp</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/48897d250e1df83e488d15ad39e7e5e0597ca316.jpg"></article>]]></description>
             <link>https://www.instagram.com/p/BF7G8L7s3JU/</link>
             <guid isPermaLink="false">d0447980-e535-415e-97b8-39ab54319409</guid>
             <pubDate>Sat, 28 May 2016 00:13:28 GMT</pubDate>
