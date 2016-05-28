@@ -27,11 +27,11 @@ app_links:
     type: android
 isBasedOnUrl: 'https://www.instagram.com/p/BF7FYCMM3FZ/'
 title: 'A puppy found us! Still on the way to #ciuwest #improv #camp'
-datePublished: '2016-05-28T00:16:53.115Z'
-dateModified: '2016-05-28T00:16:53.026Z'
+datePublished: '2016-05-28T01:07:14.115Z'
+dateModified: '2016-05-28T01:07:13.429Z'
 description: ''
-starred: false
 sourcePath: _posts/2016-05-28-a-puppy-found-us-still-on-the-way-to-ciuwest-improv-camp.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
